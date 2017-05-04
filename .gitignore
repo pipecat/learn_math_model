@@ -1,8 +1,8 @@
 *.exe
-m3iregistry
-registry
-util
-win64
+m3iregistry/
+registry/
+util/
+win64/
 *.yml
 *.xsd
 *.pl
