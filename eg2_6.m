@@ -13,3 +13,4 @@ contour(x, y, z, [0.1, 0.1]);
 pause
 mesh(x, y, z);
 
+
