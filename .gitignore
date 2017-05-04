@@ -1,0 +1,9 @@
+*.exe
+m3iregistry
+registry
+util
+win64
+*.yml
+*.xsd
+*.pl
+*.pm
