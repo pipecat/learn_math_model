@@ -7,3 +7,6 @@ win64/
 *.xsd
 *.pl
 *.pm
+*.bat
+*.xml
+
